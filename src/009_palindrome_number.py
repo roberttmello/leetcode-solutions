@@ -1,0 +1,3 @@
+def isPalindrome(num):
+  return
+ 
