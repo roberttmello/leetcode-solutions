@@ -6,7 +6,6 @@ def romanToInt(str):
             total -= table[str[i]]
         else:
             total += table[str[i]]
-        print(total)
     return total
 
 print(romanToInt('IV'))
